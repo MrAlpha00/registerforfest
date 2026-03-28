@@ -23,7 +23,7 @@ const Footer = () => {
             </a>
 
             <p className="text-sm text-white/70 leading-relaxed max-w-sm">
-            Acharya Habba, launched in 2006, is an annual college fest known for its diverse social and cultural experiences, featuring talent displays, music, sports, and collaborative events.
+              Acharya Habba, launched in 2006, is an annual college fest known for its diverse social and cultural experiences, featuring talent displays, music, sports, and collaborative events.
             </p>
 
             {/* SOCIAL ICONS (ALL SCREENS) */}
@@ -70,16 +70,16 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-6 tracking-wide">Contact Us</h4>
             <ul className="space-y-3 text-white/70 text-sm leading-relaxed">
               <li className="hover:underline hover:text-blue-400 transition"><a href={LINK.email}>Email: acharyahabba@acharya.ac.in</a></li>
-              <li className="hover:underline hover:text-blue-400 transition"><a  href={`tel:+91${LINK.mobile}`}>Phone: +91-{LINK.mobile}</a></li>
+              <li className="hover:underline hover:text-blue-400 transition"><a href={`tel:+91${LINK.mobile}`}>Phone: +91-{LINK.mobile}</a></li>
               <li className="hover:underline hover:text-blue-400 transition"><a
-                    href="https://maps.app.goo.gl/SezduUwNxU7hVVev5"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Acharya Dr. Sarvepalli Radhakrishnan Road, Acharya Post,
-                    Soladevanahalli, Bangalore, Karnataka 560107
-                  </a>
-</li>
+                href="https://maps.app.goo.gl/SezduUwNxU7hVVev5"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Acharya Dr. Sarvepalli Radhakrishnan Road, Acharya Post,
+                Soladevanahalli, Bangalore, Karnataka 560107
+              </a>
+              </li>
             </ul>
           </div>
         </div>
@@ -90,6 +90,8 @@ const Footer = () => {
         {/* COPYRIGHT */}
         <div className="text-center py-6 text-sm text-white/60">
           © 2026 <span className="font-semibold text-white">Acharya Habba</span>. All rights reserved.
+          <br />
+          <span className="mt-2 inline-block">Designed & Developed by <a href="https://github.com/mralpha00" target="_blank" rel="noreferrer" className="text-blue-400 font-semibold hover:text-white transition">Suhas M (mralpha00)</a></span>
         </div>
       </footer>
     </div>
