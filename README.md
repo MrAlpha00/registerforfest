@@ -85,5 +85,5 @@ In the project directory, you can run:
 ---
 
 <p align="center">
-  ❤️ Designed and Developed by <strong>Suhas M</strong> for Acharya Habba 2026
+  ❤️ Done by <strong>Mralpha00</strong> with love
 </p>
