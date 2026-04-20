@@ -1,4 +1,4 @@
-# 🎪 Acharya Habba 2026
+# 🎪 now its vtu  Habba 2026
 
 ![Habba 2026](https://img.shields.io/badge/Acharya-Habba%202026-blue?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
