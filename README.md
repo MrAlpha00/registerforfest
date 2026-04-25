@@ -78,6 +78,7 @@ In the project directory, you can run:
 - GitHub: [@mralpha00](https://github.com/mralpha00)
 
 ## 📞 Contact
+github mralpha00
 
 - **Email**: acharyahabba@acharya.ac.in
 - **Address**: Acharya Dr. Sarvepalli Radhakrishnan Road, Acharya Post, Soladevanahalli, Bangalore, Karnataka 560107
